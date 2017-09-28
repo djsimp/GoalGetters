@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GoalGetters</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email Address</string>
 </resources>
